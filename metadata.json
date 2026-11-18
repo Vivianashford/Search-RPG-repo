@@ -1,0 +1,8 @@
+{
+  "name": "RPG Code Atlas",
+  "description": "Discover and inspect open-source RPG game engines, combat systems, dialogue frameworks, and roguelike codebases on GitHub.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
